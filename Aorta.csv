@@ -1,0 +1,17 @@
+Button,Topicheading,Subject,GeneralPatientText,HealthProviderText,Gender,Minimumage,Maximumage
+Aorta,Aorta,Screen men age 65-80 with ultrasound once,n/a,[[CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]],m,18,150
+Aorta,Aorta,Between ages 65 and 80 ask your provider about an ultrasound to detect an AAA ,"• Your provider may ask for an ultrasound of your belly
+to detect a bulge in the main blood vessel 
+(the bulge is nicknamed AAA for short or Abdominal Aortic Aneurysm)
+• If the bulge grows it can burst and cause death.
+• [[Recommendation; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",n/a,m,18,150
+Aorta,Aorta,Screening not recommended for men older than 80 years old ,n/a,[[Weak recommendation by CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]],m,81,150
+Aorta,Aorta,Screening not recommended for women of all ages. ,n/a,"[[Strong recommendation, very low quality of evidence CTFPHC 2017; https://canadiantaskforce.ca/guidelines/published-guidelines/abdominal-aortic-aneurysm/]]",f,18,150
+Aorta,Aorta,Screening for AAA in trans and non binary patients,n/a,"At this time we could not find a Canadian reference on this topic. In the UK trans females and non binary patients who were assigned male sex at birth are advised to have an abdominal ultrasound to detect AAA between ages 65 and 80. Trans males can have a screening ultrasound if they wish but the risk of an aneurysm is mentioned as  being less.
+[[Reference; https://www.gov.uk/government/publications/nhs-population-screening-information-for-transgender-people]]","tm,tf",18,150
+Aorta,Aorta,Between 65 and 80 you may need a test,"Canadian guidelines on screening for abdominal aortic aneurysm (AAA: a bulge in the main blood vessel of the body that can be dangerous) in trans and non binary people were not found. In the UK the following is recommended:
+• If you are a trans female or non binary with sex assigned at birth as male you are advised to have an ultrasound to detect an abdominal aortic aneurysm. Speak to your provider about this.
+
+• Currently trans males, and those who are non binary with sex assigned at birth as female, may not be advised to have this test.
+
+ Research may change in this area. Speak to your health care provider.",n/a,"tm,tf",18,150
